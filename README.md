@@ -1,2 +1,2 @@
-# maven-buildApp
-for all my maven builds
+# maven-etech-application
+==========
